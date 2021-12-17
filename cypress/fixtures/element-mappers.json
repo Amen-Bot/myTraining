@@ -1,0 +1,9 @@
+{
+    "accountButton": "div:nth-of-type(1) > .-df.-fs16.-i-ctr.trig",  
+    "signInButton": ".-hr-bb ._prim",
+    "emailAddressField": "input#fi-email",
+    "passwordField": "input#fi-password",
+    "logInButton": "form#authForm > .-mts._i._prim.btn"
+}
+
+

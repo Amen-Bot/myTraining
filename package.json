@@ -1,0 +1,22 @@
+{
+  "name": "jumia-assignment",
+  "version": "1.0.0",
+  "description": "A Review so far",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Amen-Bot/myTraining.git"
+  },
+  "author": "Amen Aghayedo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Amen-Bot/myTraining/issues"
+  },
+  "homepage": "https://github.com/Amen-Bot/myTraining#readme",
+  "dependencies": {
+    "cypress": "^9.1.1"
+  }
+}
