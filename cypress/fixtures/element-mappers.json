@@ -3,7 +3,8 @@
     "signInButton": ".-hr-bb ._prim",
     "emailAddressField": "input#fi-email",
     "passwordField": "input#fi-password",
-    "logInButton": "form#authForm > .-mts._i._prim.btn"
+    "logInButton": "form#authForm > .-mts._i._prim.btn",
+    "logOut": "yuibi"
 }
 
 
